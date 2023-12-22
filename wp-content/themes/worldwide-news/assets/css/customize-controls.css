@@ -1,0 +1,13 @@
+li#customize-control-express_news_banner_posts_sub_heading,
+li#customize-control-express_news_banner_posts_post,
+li#customize-control-express_news_banner_posts_excerpt_length,
+li#customize-control-express_news_banner_posts_related_posts_title,
+li#customize-control-express_news_banner_posts_related_posts_orderby,
+li#customize-control-express_news_posts_tab_sub_heading,
+li#customize-control-express_news_latest_news_tab_enable,
+li#customize-control-express_news_latest_news_tab_title,
+li#customize-control-express_news_random_news_tab_enable,
+li#customize-control-express_news_random_news_tab_title,
+li#accordion-section-express-news {
+	display: none !important;
+}

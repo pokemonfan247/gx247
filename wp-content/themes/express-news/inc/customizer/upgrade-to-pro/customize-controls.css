@@ -1,0 +1,25 @@
+#customize-controls .control-section-express-news .accordion-section-title:hover,
+#customize-controls .control-section-express-news .accordion-section-title:focus {
+	background-color: #000000;
+	color: #fff;
+}
+
+.control-section-express-news .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+	background-color: #8bc34a;
+	border-color: #8bc34a;
+	color: #000;
+	font-weight: bold;
+}
+
+.rtl .control-section-express-news .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#accordion-section-express-news h3.accordion-section-title {
+    background-color: #000000;
+    color: #fff;
+}
